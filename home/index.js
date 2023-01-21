@@ -7,6 +7,7 @@ export default class index extends Component {
       <View>
         <Text> hybrid app </Text>
         <Text>Software Developer</Text>
+        <Text>React Developer</Text>
       </View>
     )
   }
